@@ -42,3 +42,7 @@ Copyrights (c) 1998 by Michael Cheng
 Copyrights (c) 1995,1996,1997 by Michael Hipp: mpglib
 
 As well as additional copyrights as documented in the source code.
+
+附加说明:
+LAME库代码很久没有更新了，使用新版本visual studio（vs2015+）进行编译需要进行很多改造。
+本项目重新对vs编译进行了配置，打开vc_solution/vc11_lame.sln即可使用visual studio编译
